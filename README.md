@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Kazemzadeh</h1>
-<h3 align="center">a "Software Engineering" student and "Web Developer"</h3>
+<h3 align="center">A "Software Engineering" student and a "Web Developer"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirkz80&label=Profile%20views&color=0e75b6&style=flat" alt="amirkz80" /> </p>
 
