@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋 I'm Amir Kazemzadeh, a "Computer Engineering" student</h1>
+<h1 align="center">Hi there👋 I'm Amir Kazemzadeh. Welcome to my GitHub page
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirkz80&label=Profile%20views&color=0e75b6&style=flat" alt="amirkz80" /> </p>
